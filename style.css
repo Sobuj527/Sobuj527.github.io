@@ -61,7 +61,7 @@ ul li:hover > a#down_arr:before{top:100%;border-top-color:#808080}
 /* global styles end ========================= */
 
 #header_area {
-	background: #364248;
+	background: #00537b;
 	border-bottom: 3px solid darkorange;
 	padding: 25px 0;
 	min-height: 70px;
